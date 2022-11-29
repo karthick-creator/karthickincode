@@ -1,6 +1,6 @@
 - 👋 Hi, I’m karthick
 - 👀 I’m interested in learning lot
-- 🌱 I’m currently learning Java,HTML
+- 🌱 I’m currently learning Java,HTML,CSS,Java script,Spring boot
 - 💞️ I’m looking to collaborate on software engineers
 - 📫 How to reach me https://www.instagram.com/_karthick_smrt/
 
